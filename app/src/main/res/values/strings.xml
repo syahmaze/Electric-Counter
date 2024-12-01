@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Electric Counter</string>
+    <string name="ElectricCounter">Electric Counter</string>
+    <string name="app_menu">Main Menu</string>
+    <string name="about">About</string>
+    <string name="instruction">Instruction</string>
+</resources>
